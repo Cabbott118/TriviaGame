@@ -95,7 +95,7 @@ $(document).ready(function () {
             question: "Which of the following characters is not an animagi?",
             choice: ["Sirius Black", "Nymphadora Tonks", "Peter Pettigrew", "James Potter"],
             answer: 1,
-            fact: "An animagi is a type of witch or wizard that is able to morph into an animal. This was a learned skill. Tonks was a Metamorphmagus, meaning she could change any part of her self at any moment. Metamorphmagi are born with their skill",
+            fact: "An animagi is a type of witch or wizard that is able to morph into an animal. This is a learned skill. Tonks was a Metamorphmagus, meaning she could change any part of her self at any moment. Metamorphmagi are born with their skill.",
             picture: "assets/images/nymph.jpg"
         },
         {
