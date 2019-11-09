@@ -39,7 +39,7 @@ $(document).ready(function () {
             question: "Who was the Seeker for the Bulgarian Team that played in the Quidditch World Cup against the Irish?",
             choice: ["Viktor Krum", "Igor Karkaroff", "Cedric Diggory", "Gellert Grindelwald"],
             answer: 0,
-            fact: "Fact about Viktor here",
+            fact: "Viktor Krum was a student that attended Durmstrang Institute, and was selected to participate in the Triwizard Tournament. He was a student during the World Cup.",
             picture: "assets/images/krum.jpg"
         },
         {
@@ -53,14 +53,14 @@ $(document).ready(function () {
             question: "Who is the Half-Blood Prince?",
             choice: ["Severus Snape", "Lucius Malfoy", "Tom Riddle", "Eileen Prince"],
             answer: 0,
-            fact: "Severus Snape was the Half-Blood Prince... need help with factzzzz.",
+            fact: "Severus Snape was the Half-Blood Prince. He was a half-blood wizard meaning his mother was a wizard and his father was a muggle. His mother's maiden name was Prince.",
             picture: "assets/images/hbp.jpg"
         },
         {
             question: "Who became a professional Quidditch player?",
             choice: ["George", "Ginny", "Ron", "Harry"],
             answer: 1,
-            fact: "Ginny/Quidditch fact.",
+            fact: "Ginny played for the professional Quidditch team Holyhead Harpies, and became the senior Quidditch correspondant after retiring from the sport.",
             picture: "assets/images/ginny.jpg"
         },
         {
@@ -88,14 +88,14 @@ $(document).ready(function () {
             question: "What phrase makes the Marauder's map blank?",
             choice: ["Nothing to see here", "All done", "Mischief managed", "I'm done"],
             answer: 2,
-            fact: "The Marauder's Map is a 'live' map that showed all of Hogwart's grounds, including secret passageways.",
+            fact: "The Marauder's Map is a 'live' map that showed all of Hogwart's grounds, including secret passageways, and the location of every person on the grounds.",
             picture: "assets/images/map.jpg"
         },
         {
             question: "Which of the following characters is not an animagi?",
             choice: ["Sirius Black", "Nymphadora Tonks", "Peter Pettigrew", "James Potter"],
             answer: 1,
-            fact: "An animagi is a type of witch or wizard that was able to morph into an animal.",
+            fact: "An animagi is a type of witch or wizard that is able to morph into an animal. This was a learned skill. Tonks was a Metamorphmagus, meaning she could change any part of her self at any moment. Metamorphmagi are born with their skill",
             picture: "assets/images/nymph.jpg"
         },
         {
