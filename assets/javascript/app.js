@@ -237,7 +237,7 @@ $(document).ready(function () {
     function restart() {
         $("#restart").hide();
         $("#answer").empty();
-        $("#question").empty();
+        $("#question").show();
         for (var i = 0; i < runningArray.length; i++) {
             triviaOptions.push(runningArray[i]);
         }

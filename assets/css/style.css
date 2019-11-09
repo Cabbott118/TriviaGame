@@ -27,43 +27,40 @@ h3 {
 
 img {
     padding: 10px;
-    width: 20%;
+    width: 250px;
     height: auto;
 }
 
 .infoBox {
     font-family: 'Cormorant Garamond', serif;
     padding: 30px;
-    background-color: black;
     color: white;
     width: 50%;
     height: auto;
-    opacity: 0.9;
+    background: rgba(0, 0, 0, .5);
     font-size: 24px;
 }
 
 #question {
     font-family: 'Cormorant Garamond', serif;
     padding: 30px;
-    background-color: black;
     color: white;
     width: 50%;
     height: auto;
-    opacity: 0.9;
+    background: rgba(0, 0, 0, .5);
     font-size: 24px;
 }
 
 .answerHolder {
     font-family: 'Cormorant Garamond', serif;
     padding: 30px;
-    background-color: black;
     color: white;
     width: 50%;
     height: auto;
-    opacity: 0.9;
+    background: rgba(0, 0, 0, .5);
     font-size: 24px;
 }
 
 .answerchoice:hover {
     color: #FCCE00;
-  }
+}
